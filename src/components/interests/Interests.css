@@ -1,0 +1,31 @@
+.interests__container {
+  grid-template-columns: repeat(3, 1fr);
+  padding: var(--mb-2) 0;
+}
+
+.interests__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.interests__icon {
+  font-size: 1.5rem;
+  color: var(--text-color-light);
+  margin-bottom: 0.25rem;
+}
+
+/*========== MEDIA QUERIES ==========*/
+@media screen and (max-width: 576px) {
+  .interests__container {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+}
+
+@media screen and (min-width: 968px) {
+  .interests__container {
+    grid-template-columns: repeat(4, max-content);
+    column-gap: 3.5rem;
+  }
+}

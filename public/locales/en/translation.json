@@ -1,0 +1,79 @@
+{
+  "fname": "Khwankamon",
+  "name": "Khwankamon Yanyangkun",
+  "home": {
+    "address": "Muang Phan, Chiang Rai 57120, Thailand."
+  },
+
+  "profile": {
+    "section-title": "Profile",
+    "section-title2": "โปรไฟล์",
+    "des": "Committed seeking a career that can improve my skills and meet the demands of the organization. "
+  },
+
+  "languages": {
+    "section-title": "Languages",
+    "section-title2": "ภาษา",
+    "thai": "Thai (Proficient)",
+    "english": "English (Intermediate)"
+  },
+
+  "interests": {
+    "section-title": "Interests",
+    "section-title2": "ความสนใจ",
+    "des1": "Music",
+    "des2": "Gaming",
+    "des3": "Read",
+    "des4": "Fitness"
+  },
+
+  "certificates": {
+    "section-title": "Certificates",
+    "section-title2": "อบรมประกาศนียบัตร",
+    "des": "Professional Qualification Level 3",
+    "line1": "Thailand Professional Qualification Institute (Public Organization)",
+    "line2": "Software and Applications"
+  },
+
+  "experience": {
+    "section-title": "Experience",
+    "section-title2": "ประวัติการทำงาน / ฝึกงาน",
+    "job1": {
+      "des": "State welfare registration project employees (Temporary)",
+      "subdes": "2022 | Government Savings Bank, Phan Branch",
+      "line1": "Check information by asking questions. and solve the problem for Customers who come to use the service.",
+      "line2": "Fill in information via the website using a notebook and related IT tools.",
+      "line3": "Record data into a Microsoft Excel to summarize daily results."
+    },
+    "job2": {
+      "des": "Web designer (Intern)",
+      "subdes": "2021 - 2022 | WEWEBPLUS CO.,LTD.",
+      "line1": "Design Logo, Header, Infographic and Website to meet the needs of customers."
+    }
+  },
+
+  "education": {
+    "section-title": "Education",
+    "section-title2": "ประวัติการศึกษา",
+    "edu1": {
+      "title": "Bachelor's Degree - Computer Engineering",
+      "studies": "University of Phayao 2022",
+      "year": "GPA 2.44"
+    },
+    "edu2": {
+      "title": "High school",
+      "studies": "Phanphittayakom School 2017",
+      "year": "GPA 2.00"
+    },
+    "edu3": {
+      "title": "Junior high school",
+      "studies": "Sirimart Thevi School 2014",
+      "year": "GPA 3.04"
+    }
+  },
+
+  "skills": {
+    "section-title": "Skills",
+    "section-title2": "สกิลการเขียนโปรแกรม และอื่น ๆ"
+  }
+}
