@@ -1,8 +1,5 @@
-# React + Vite
+# Pesonal Resume Website
+Responsive design with i18next for change lanague
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![localhost_5173_(Nest Hub Max)](https://github.com/user-attachments/assets/e9c2535a-99c5-4670-b2a1-a9d394cac143)
